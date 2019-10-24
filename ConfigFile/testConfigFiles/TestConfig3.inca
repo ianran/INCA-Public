@@ -1,0 +1,15 @@
+# Place this and below at the start of every config file:
+#
+# These files can be read and edited by the ConfigFile class
+# located in ConfigFile.hpp
+# The file can be updated by hand or by the ConfigFile class
+# Please be careful editing automaticlly using the ConfigFile class
+# Format for file is
+# varName = value
+
+
+
+a = 3456.32552 # This is a test comment
+b = 2
+c = -24.567 asdf # Will cause it to fail
+

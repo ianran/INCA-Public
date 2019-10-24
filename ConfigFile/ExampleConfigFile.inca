@@ -1,0 +1,16 @@
+# Example configuration file
+# This is a comment
+
+# Place this and below at the start of every config file:
+#
+# These files can be read and edited by the ConfigFile class
+# located in ConfigFile.hpp
+# The file can be updated by hand or by the ConfigFile class
+# Please be careful editing automatically using the ConfigFile class
+# Format for file is
+# varName = value
+
+RandomVariable        = 45
+startBatteryVoltage   = 3.7
+
+messageToShow = HelloYouSucker
